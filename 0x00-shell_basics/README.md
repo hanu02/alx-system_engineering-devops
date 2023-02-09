@@ -1,2 +1,2 @@
- 11. Lists
-write a script that lists all files (even ones with names begining with......)in the current directory and the parent of the working 
+ 12.File type
+Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
